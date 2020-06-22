@@ -3,4 +3,4 @@
 ## repositories
 
 - [gitlab](https://gitlab.com/screwmycodein/iscrewyoutube-www) main
-- [github](#)
+- [github](https://github.com/screwmycode/iscrewyoutube-www)
