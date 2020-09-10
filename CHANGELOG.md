@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.1.7...v1.1.8) (2020-09-10)
+
+
+### Bug Fixes
+
+* asfalte: 🐳 docker-base-image-check-gpr__0*630 ([bb65bf4](https://github.com/screwmycode/iscrewyoutube-www/commit/bb65bf41bf9feaf02461a7a7e6b4b834b1b14cf7))
+
 ## [1.1.7](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.1.6...v1.1.7) (2020-09-10)
 
 
