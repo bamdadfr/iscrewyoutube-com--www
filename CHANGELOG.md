@@ -1,3 +1,11 @@
+## [1.1.7](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.1.6...v1.1.7) (2020-09-10)
+
+
+### Bug Fixes
+
+* asfalte: 🔨 git-commit-force-release__push ([ef5478d](https://github.com/screwmycode/iscrewyoutube-www/commit/ef5478d96a58ed5b253b66b3566dca8d22b6404a))
+* blocked at v1 [force-release] ([0598e31](https://github.com/screwmycode/iscrewyoutube-www/commit/0598e31c5f88badb2a256bee4adeef98c08613bf))
+
 ## [1.1.6](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.1.5...v1.1.6) (2020-09-04)
 
 
