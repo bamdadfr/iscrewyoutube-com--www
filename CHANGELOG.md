@@ -1,3 +1,10 @@
+## [1.1.14](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.1.13...v1.1.14) (2020-11-18)
+
+
+### Bug Fixes
+
+* updated workflows ([9a70c96](https://github.com/screwmycode/iscrewyoutube-www/commit/9a70c96f393c7e02cd69cd06c659001cf9cc9a81))
+
 ## [1.1.13](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.1.12...v1.1.13) (2020-11-06)
 
 
