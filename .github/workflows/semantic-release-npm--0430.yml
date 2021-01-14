@@ -1,4 +1,4 @@
-name: semantic-release--0430
+name: semantic-release-npm--0430
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
       - git-commit-force-release
 
 jobs:
-  semantic-release--0430:
+  semantic-release-npm--0430:
     runs-on: ubuntu-latest
     steps:
 
@@ -18,6 +18,8 @@ jobs:
       - uses: actions/setup-node@master
         with:
           node-version: '12'
+
+      - run: npm i --legacy-peer-deps
 
       - run: |
           npm i -g \

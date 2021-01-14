@@ -1,21 +1,27 @@
-FROM php:apache
+FROM node:alpine as build
 LABEL maintainer="Bamdad Sabbagh <devops@bamdadsabbagh.com>"
 
-RUN apt-get update && \
-    apt-get upgrade -y && \
-    apt-get autoremove --purge -y && \
-    apt-get install -y \
-    libapache2-mod-security2
+ENV NODE_ENV=production
+WORKDIR /app
 
-RUN a2enmod rewrite
+COPY package.json tsconfig.json package-lock.json ./
+RUN npm i
+RUN npm i typescript @types/node
 
-COPY src/ /var/www/html
+COPY . ./
+RUN npm run build
 
-# apache2 production mode
-COPY docker/apache2.conf /root/apache2.conf
-RUN cat /root/apache2.conf >> /etc/apache2/apache2.conf \
-    && rm /root/apache2.conf
+# runtime
+FROM node:alpine
+LABEL maintainer="Bamdad Sabbagh <devops@bamdadsabbagh.com>"
 
-RUN chown -R www-data:www-data /var/www/html
+ENV NODE_ENV=production
+WORKDIR /app
 
-EXPOSE 80
+COPY --from=build /app/dist /app/dist
+COPY --from=build /app/node_modules /app/node_modules
+
+EXPOSE 3000
+
+USER node
+CMD ["node", "/app/dist/app.js"]
