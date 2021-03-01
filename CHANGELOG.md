@@ -12,6 +12,20 @@
 * deploy ftp action ([2d8a3bd](https://github.com/screwmycode/iscrewyoutube-www/commit/2d8a3bde5847f54fc66e0d88c54860c3bfab5007))
 * roll back to PHP ([fd57ac2](https://github.com/screwmycode/iscrewyoutube-www/commit/fd57ac22352f6306b93a1ee7563b3abc2e88c310))
 
+# [1.2.0](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.1.15...v1.2.0) (2021-03-01)
+
+
+### Bug Fixes
+
+* removed docker build ([58ab467](https://github.com/screwmycode/iscrewyoutube-www/commit/58ab4674defbec5f6f254c1a87c0ec334b8818cd))
+* typo ([6ea3b5c](https://github.com/screwmycode/iscrewyoutube-www/commit/6ea3b5cb34a9bbbd82325cac372eeefb613bdb33))
+
+
+### Features
+
+* deploy ftp action ([2d8a3bd](https://github.com/screwmycode/iscrewyoutube-www/commit/2d8a3bde5847f54fc66e0d88c54860c3bfab5007))
+* roll back to PHP ([fd57ac2](https://github.com/screwmycode/iscrewyoutube-www/commit/fd57ac22352f6306b93a1ee7563b3abc2e88c310))
+
 ## [1.1.15](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.1.14...v1.1.15) (2021-01-14)
 
 
