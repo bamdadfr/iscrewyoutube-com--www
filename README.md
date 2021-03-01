@@ -1,7 +1,36 @@
-# [iscrewyoutube-www](https://iscrewyoutube.com/)
+# iscrewyoutube-www
 
-## run
+<p align=center>
+    <a href="https://screwmycode.in/">
+        <img width=100 src="https://raw.githubusercontent.com/screwmycode/iscrewyoutube-www/master/src/assets/icons/SCRW_KSET.svg">
+    </a>
+</p>
 
-```bash
-docker run -d --restart=always --name iscrewyoutube-www -p 5006:80 docker.pkg.github.com/screwmycode/iscrewyoutube-www/iscrewyoutube-www:latest
-```
+<p align=center>
+    prefix youtube URLs and redirect to screwmycode.in
+</p>
+
+<p align=center>
+    <a href="https://github.com/screwmycode/iscrewyoutube-www">
+        <img src="https://img.shields.io/github/stars/screwmycode/iscrewyoutube-www?label=git">
+    </a>
+    <img src="https://img.shields.io/github/license/screwmycode/iscrewyoutube-www">
+</p>
+
+<p align=center>
+    <img src="https://img.shields.io/github/languages/count/screwmycode/iscrewyoutube-www">
+    <img src="https://img.shields.io/github/languages/top/screwmycode/iscrewyoutube-www">
+</p>
+
+<p align=center>
+    <img src="https://img.shields.io/github/v/release/screwmycode/iscrewyoutube-www">
+</p>
+
+<p align=center>
+    <img src="https://img.shields.io/badge/ci-github--actions-yellowgreen">
+    <img src="https://img.shields.io/badge/cd-FTP-yellowgreen">
+</p>
+
+## example
+
+<https://www.iscrewyoutube.com/watch?v=dQw4w9WgXcQ>
