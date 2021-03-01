@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.2.0...v1.2.1) (2021-03-01)
+
+
+### Bug Fixes
+
+* moved redirect to its own folder ([4860da2](https://github.com/screwmycode/iscrewyoutube-www/commit/4860da2d387c35a5fdb3a81d2ada3e36f866b86d))
+
 # [1.2.0](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.1.15...v1.2.0) (2021-03-01)
 
 
