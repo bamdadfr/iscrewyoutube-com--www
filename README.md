@@ -1,12 +1,6 @@
 # iscrewyoutube-www
 
 <p align=center>
-    <a href="https://screwmycode.in/">
-        <img width=100 src="https://raw.githubusercontent.com/screwmycode/iscrewyoutube-www/master/src/assets/icons/SCRW_KSET.svg">
-    </a>
-</p>
-
-<p align=center>
     prefix youtube URLs and redirect to screwmycode.in
 </p>
 
