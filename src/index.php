@@ -1,4 +1,4 @@
 <?php
 
-include('./redirect.php');
+include('./utils/redirect.php');
 redirect('https://screwmycode.in');
