@@ -9,8 +9,7 @@ if (preg_match($regEx, $url, $match)) {
     $baseUrl = 'https://screwmycode.in/youtube/';
     $videoId = $match[1];
 
-    Redirect($baseUrl . $videoId, true);
-
+    redirect($baseUrl . $videoId, true);
 } else {
     echo 'error';
 }
