@@ -18,6 +18,7 @@
 
 <p align=center>
     <img src="https://img.shields.io/github/v/release/screwmycode/iscrewyoutube-www">
+    <img src="https://api.codeclimate.com/v1/badges/3328c1e3f1576cbe0323/maintainability">
 </p>
 
 <p align=center>
