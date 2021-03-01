@@ -1,0 +1,20 @@
+name: deploy-ftp--onPublished
+
+on:
+  release:
+    types:
+      - published
+
+jobs:
+  deploy-ftp--onPublished:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@master
+
+      - uses: samkirkland/ftp-deploy-action@master
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          local-dir: './src/'
