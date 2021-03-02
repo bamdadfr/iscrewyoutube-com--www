@@ -1,4 +1,8 @@
 RewriteEngine On
+
+# if not our domain
+RewriteCond %{HTTP_HOST} !^iscrewyoutube\.com$
+RewriteRule ^(.*)$ https://iscrewyoutube.com/$1 [L,R=301]
+
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
-
