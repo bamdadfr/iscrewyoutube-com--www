@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.2.4...v1.3.0) (2021-03-10)
+
+
+### Features
+
+* dummy [force-release] ([cd5c020](https://github.com/screwmycode/iscrewyoutube-www/commit/cd5c020770914c7dd5aaa4f5fb64f5f269080a51))
+
 ## [1.2.4](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.2.3...v1.2.4) (2021-03-10)
 
 
