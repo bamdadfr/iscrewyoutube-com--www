@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.2.2...v1.2.3) (2021-03-10)
+
+
+### Bug Fixes
+
+* **htaccess:** removed indexing ([a5cd811](https://github.com/screwmycode/iscrewyoutube-www/commit/a5cd81154f2e650b9593c1ba92871ce7ecf3f680))
+
 ## [1.2.2](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.2.1...v1.2.2) (2021-03-02)
 
 
