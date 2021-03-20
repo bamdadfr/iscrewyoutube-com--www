@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.4.0...v1.4.1) (2021-03-20)
+
+
+### Bug Fixes
+
+* **rewrite:** rewrite for mobile domain `m.` ([0ffe9ab](https://github.com/screwmycode/iscrewyoutube-www/commit/0ffe9abb69d7874667379751dae571c889f720e1))
+
 # [1.4.0](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.3.0...v1.4.0) (2021-03-10)
 
 
