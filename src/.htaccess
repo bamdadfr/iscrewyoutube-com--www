@@ -3,6 +3,7 @@ Options -Indexes
 RewriteEngine On
 
 # if not our domain
+RewriteCond %{HTTP_HOST} !^m\.iscrewyoutube\.com$
 RewriteCond %{HTTP_HOST} !^iscrewyoutube\.com$
 RewriteRule ^(.*)$ https://iscrewyoutube.com/$1 [L,R=301]
 
