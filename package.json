@@ -1,0 +1,15 @@
+{
+    "name": "iscrewyoutube-com--www",
+    "version": "1.4.1",
+    "author": {
+        "name": "Bamdad Sabbagh",
+        "email": "hi@bamdad.fr",
+        "url": "https://bamdad.fr"
+    },
+    "scripts": {
+        "package:sort": "npx sort-package-json"
+    },
+    "devDependencies": {
+        "@bamdadsabbagh/eslint-config": "^1.13.0"
+    }
+}
