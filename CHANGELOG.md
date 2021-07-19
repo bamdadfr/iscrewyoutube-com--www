@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/bamdadsabbagh/iscrewyoutube-com--www/compare/v1.4.1...v1.4.2) (2021-07-19)
+
+
+### Bug Fixes
+
+* **release:** fix command in release.config.js ([e54d221](https://github.com/bamdadsabbagh/iscrewyoutube-com--www/commit/e54d22121b0d8c63e36c953f6ce882a5b12c0dd9))
+
 ## [1.4.1](https://github.com/screwmycode/iscrewyoutube-www/compare/v1.4.0...v1.4.1) (2021-03-20)
 
 
