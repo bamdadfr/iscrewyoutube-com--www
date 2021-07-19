@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://iscrewyoutube.com">
-        <img width=100 src="https://raw.githubusercontent.com/screwmycode/screwmycode-www/master/public/icons/SCRW_KSET.svg">
+        <img width=100 src="https://raw.githubusercontent.com/bamdadsabbagh/screwmycode-in--www/master/public/icons/SCRW_KSET.svg">
     </a>
 </p>
 
