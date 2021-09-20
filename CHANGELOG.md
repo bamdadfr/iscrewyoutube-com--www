@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/bamdadsabbagh/iscrewyoutube-com--www/compare/v1.4.2...v1.4.3) (2021-09-20)
+
+
+### Bug Fixes
+
+* **CI:** update release pipelines ([ce9d00c](https://github.com/bamdadsabbagh/iscrewyoutube-com--www/commit/ce9d00c73308b444705e4339c6d81a4216ae58b4))
+
 ## [1.4.2](https://github.com/bamdadsabbagh/iscrewyoutube-com--www/compare/v1.4.1...v1.4.2) (2021-07-19)
 
 
